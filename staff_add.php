@@ -19,8 +19,6 @@
     <input type="submit" value="OK">
 </form>
 
-otinpo!
-
 
 </body>
 </html>
